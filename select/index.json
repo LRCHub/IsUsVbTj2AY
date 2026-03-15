@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Suit & Tie (feat. JAY-Z)",
+  "base_artist": "Justin Timberlake",
+  "createdAt": "2026-03-15T11:02:22.510086Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Suit & Tie",
+      "artist": "Justin Timberlake",
+      "has_synced": false,
+      "path": "select/01_Suit_&_Tie_Justin_Timberlake.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Cowboy in the Continental Suit",
+      "artist": "Marty Robbins",
+      "has_synced": false,
+      "path": "select/02_The_Cowboy_in_the_Continental_Suit_Marty_Robbins.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Cowboy In The Continental Suit (Album Version)",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/03_The_Cowboy_In_The_Continental_Suit_(Album_Version)_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Deep Sea Diving Suit",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/04_Deep_Sea_Diving_Suit_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Silver Suit",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/05_Silver_Suit_ASH.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Big Man In A Little Suit",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/06_Big_Man_In_A_Little_Suit_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Black Bathing Suit",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/07_Black_Bathing_Suit_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Black Hair, Black Eyes, Black Suit",
+      "artist": "Hugh Cornwell",
+      "has_synced": false,
+      "path": "select/08_Black_Hair,_Black_Eyes,_Black_Suit_Hugh_Cornwell.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Birthday Suit",
+      "artist": "Bob Geldof",
+      "has_synced": false,
+      "path": "select/09_My_Birthday_Suit_Bob_Geldof.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Suit",
+      "artist": "Public Image Ltd.",
+      "has_synced": true,
+      "path": "select/10_The_Suit_Public_Image_Ltd..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pressure Suit",
+      "artist": "ADULT.",
+      "has_synced": false,
+      "path": "select/11_Pressure_Suit_ADULT..txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Body Suit",
+      "artist": "Banoffee",
+      "has_synced": true,
+      "path": "select/12_Body_Suit_Banoffee.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dead Man's Suit",
+      "artist": "Cherry Ghost",
+      "has_synced": false,
+      "path": "select/13_Dead_Man's_Suit_Cherry_Ghost.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tiger Suit",
+      "artist": "KT Tunstall",
+      "has_synced": true,
+      "path": "select/14_Tiger_Suit_KT_Tunstall.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Khaki Suit",
+      "artist": "Damian \"Jr. Gong\" Marley",
+      "has_synced": false,
+      "path": "select/15_Khaki_Suit_Damian__Jr._Gong__Marley.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Suit Yourself",
+      "artist": "Daedelus",
+      "has_synced": false,
+      "path": "select/16_Suit_Yourself_Daedelus.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Man In the Santa Suit",
+      "artist": "Fountains of Wayne",
+      "has_synced": false,
+      "path": "select/17_The_Man_In_the_Santa_Suit_Fountains_of_Wayne.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Man In The Santa Suit",
+      "artist": "Fountains Of Wayne",
+      "has_synced": false,
+      "path": "select/18_The_Man_In_The_Santa_Suit_Fountains_Of_Wayne.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Blue Suit, Brown Shirt",
+      "artist": "Sacred Reich",
+      "has_synced": false,
+      "path": "select/19_Blue_Suit,_Brown_Shirt_Sacred_Reich.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Suit & Tie (feat. JAY Z) - [Radio Edit]",
+      "artist": "Justin Timberlake",
+      "has_synced": false,
+      "path": "select/pl_01_Suit_&_Tie_(feat._JAY_Z)_-_[Radio_Edit]_Justin_Timberlake.txt"
+    }
+  ]
+}
